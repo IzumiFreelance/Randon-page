@@ -1,5 +1,4 @@
-# intren-work
-//These are project i am developing through my own skills i will lead myself from basic to advance.//
+# Its a random cool page made in html 
 👋 Hello, World!
 🌟 About Me
 Hi there! I'm [IzumiFreelance/Altaf hussain], a passionate Web Developer! 🌐
